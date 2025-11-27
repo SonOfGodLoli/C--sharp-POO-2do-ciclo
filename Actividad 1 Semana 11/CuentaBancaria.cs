@@ -39,7 +39,7 @@ namespace Actividad_1_semana_11
         public void MostarInfo()
         {
             Console.WriteLine("==== BANCO JUECEPE ====");
-            Console.WriteLine($"|Numero de Cuenta: \t|{Numerodecuenta}");
+            Console.WriteLine($"|Numero de Cuenta: \t{Numerodecuenta}|");
             Console.WriteLine($"|Nombre del titular: \t{Titular}|");
             Console.WriteLine($"|Saldo:\t\t{Saldo} |");
             Console.WriteLine($"======================");

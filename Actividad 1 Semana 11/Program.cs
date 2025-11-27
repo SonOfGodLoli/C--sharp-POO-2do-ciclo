@@ -48,7 +48,7 @@ try
 }
 catch (FondosInsuficientesException ex)
 {
-    Console.WriteLine("Error PErsonalizado : " + ex.Message);
+    Console.WriteLine("Error Personalizado : " + ex.Message);
 }
 catch (FormatException)
 {

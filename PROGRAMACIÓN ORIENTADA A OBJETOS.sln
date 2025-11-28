@@ -33,6 +33,29 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Actividad 2 Semana 11", "Ac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proyecto Final -  Sistema de Gestión de Clínica Veterinaria", "Proyecto Final -  Sistema de Gestión de Clínica Veterinaria\Proyecto Final -  Sistema de Gestión de Clínica Veterinaria.csproj", "{57DF874A-1126-4FD8-9FA1-6C09E135457B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Proyecto Final Poo", "Proyecto Final Poo", "{1B2F3D97-3C1F-46DD-A374-8F3E90D645EA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "pdfs", "pdfs", "{6B9BE06B-5FB0-4137-ABD2-277AA2CEC552}"
+	ProjectSection(SolutionItems) = preProject
+		Proyecto Final -  Sistema de Gestión de Clínica Veterinaria\01-S2 Fundamentos_C#.pdf = Proyecto Final -  Sistema de Gestión de Clínica Veterinaria\01-S2 Fundamentos_C#.pdf
+		Proyecto Final -  Sistema de Gestión de Clínica Veterinaria\02-S2 Bucles_C#.pdf = Proyecto Final -  Sistema de Gestión de Clínica Veterinaria\02-S2 Bucles_C#.pdf
+		Proyecto Final -  Sistema de Gestión de Clínica Veterinaria\03-S1 Programacion_Modular_C#.pdf = Proyecto Final -  Sistema de Gestión de Clínica Veterinaria\03-S1 Programacion_Modular_C#.pdf
+		Proyecto Final -  Sistema de Gestión de Clínica Veterinaria\03-S2 Programacion_Modular_C#.pdf = Proyecto Final -  Sistema de Gestión de Clínica Veterinaria\03-S2 Programacion_Modular_C#.pdf
+		Proyecto Final -  Sistema de Gestión de Clínica Veterinaria\04-S1 POO_C#.pdf = Proyecto Final -  Sistema de Gestión de Clínica Veterinaria\04-S1 POO_C#.pdf
+		Proyecto Final -  Sistema de Gestión de Clínica Veterinaria\05-POO_II_Encapsulamiento_C#.pdf = Proyecto Final -  Sistema de Gestión de Clínica Veterinaria\05-POO_II_Encapsulamiento_C#.pdf
+		Proyecto Final -  Sistema de Gestión de Clínica Veterinaria\06-POO_Metodos_C#.pdf = Proyecto Final -  Sistema de Gestión de Clínica Veterinaria\06-POO_Metodos_C#.pdf
+		Proyecto Final -  Sistema de Gestión de Clínica Veterinaria\07-S2_POO_UML_C#.pdf = Proyecto Final -  Sistema de Gestión de Clínica Veterinaria\07-S2_POO_UML_C#.pdf
+		Proyecto Final -  Sistema de Gestión de Clínica Veterinaria\08-Herencia_POO_C#.pdf = Proyecto Final -  Sistema de Gestión de Clínica Veterinaria\08-Herencia_POO_C#.pdf
+		Proyecto Final -  Sistema de Gestión de Clínica Veterinaria\09-S1_Polimorfismo_POO_C#.pdf = Proyecto Final -  Sistema de Gestión de Clínica Veterinaria\09-S1_Polimorfismo_POO_C#.pdf
+		Proyecto Final -  Sistema de Gestión de Clínica Veterinaria\09-S2_Polimorfismo_POO_C#.pdf = Proyecto Final -  Sistema de Gestión de Clínica Veterinaria\09-S2_Polimorfismo_POO_C#.pdf
+		Proyecto Final -  Sistema de Gestión de Clínica Veterinaria\10-Interfaces_POO_C#.pdf = Proyecto Final -  Sistema de Gestión de Clínica Veterinaria\10-Interfaces_POO_C#.pdf
+		Proyecto Final -  Sistema de Gestión de Clínica Veterinaria\11-Manejo de Excepciones_POO_C#.pdf = Proyecto Final -  Sistema de Gestión de Clínica Veterinaria\11-Manejo de Excepciones_POO_C#.pdf
+		Proyecto Final -  Sistema de Gestión de Clínica Veterinaria\PRACTICA CALIFICADA 2_POO.pdf = Proyecto Final -  Sistema de Gestión de Clínica Veterinaria\PRACTICA CALIFICADA 2_POO.pdf
+		Proyecto Final -  Sistema de Gestión de Clínica Veterinaria\PROCEDIMIENTOS.txt = Proyecto Final -  Sistema de Gestión de Clínica Veterinaria\PROCEDIMIENTOS.txt
+		Proyecto Final -  Sistema de Gestión de Clínica Veterinaria\Proyecto Final-POO.pdf = Proyecto Final -  Sistema de Gestión de Clínica Veterinaria\Proyecto Final-POO.pdf
+		Proyecto Final -  Sistema de Gestión de Clínica Veterinaria\Tarea POO Ricardo Carlos Andres Nunton Garcia.pdf = Proyecto Final -  Sistema de Gestión de Clínica Veterinaria\Tarea POO Ricardo Carlos Andres Nunton Garcia.pdf
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -98,6 +121,10 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{57DF874A-1126-4FD8-9FA1-6C09E135457B} = {1B2F3D97-3C1F-46DD-A374-8F3E90D645EA}
+		{6B9BE06B-5FB0-4137-ABD2-277AA2CEC552} = {1B2F3D97-3C1F-46DD-A374-8F3E90D645EA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {241F3062-8D23-4D12-B549-62B7F6F56780}

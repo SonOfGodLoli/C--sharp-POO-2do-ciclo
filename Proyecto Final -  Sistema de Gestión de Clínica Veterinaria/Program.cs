@@ -11,7 +11,7 @@ namespace Proyecto_Final____Sistema_de_Gestión_de_Clínica_Veterinaria
             // To customize application configuration such as set high DPI settings or default font,
             // see https://aka.ms/applicationconfiguration.
             ApplicationConfiguration.Initialize();
-            Application.Run(new Form1());
+            Application.Run(new Sistema_de_Gestión_Veterinaria_JOSE_PARDO());
         }
     }
 }
